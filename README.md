@@ -1,4 +1,4 @@
-##Govind Krishnan
+**Govind Krishnan**
 #Data Analyst | Power BI Developer | Business Intelligence Analyst  
 
 Delhi, India | +91 7827632795 | gk.krishnangovind@gmail.com
