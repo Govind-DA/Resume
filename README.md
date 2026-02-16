@@ -1,5 +1,6 @@
 ##Govind Krishnan
-#Data Analyst | Power BI Developer | Business Intelligence Analyst
+#Data Analyst | Power BI Developer | Business Intelligence Analyst  
+
 Delhi, India | +91 7827632795 | gk.krishnangovind@gmail.com
 #LinkedIn: linkedin.com/in/govind-krishnan-99944519a | GitHub: github.com/Govind-DA | Portfolio: govind-krishnan-portfolio.vercel.app
 ##PROFESSIONAL SUMMARY
